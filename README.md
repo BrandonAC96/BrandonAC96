@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Brandon Chupina
+- 👀 I’m interested in SQL, .NET, JAVA, ANGULAR.
+- 🌱 I’m currently learning ANGULAR and JS NODE.
