@@ -8,4 +8,6 @@ Knowledge:
 
 ![image](https://user-images.githubusercontent.com/101367252/178641243-2a92778d-800e-4984-8fb6-686255c4d78a.png)
 
+![image](https://user-images.githubusercontent.com/101367252/178641345-19fd5de0-fb2c-411c-bc74-c724c05e6595.png)
+
 
